@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brain Wave</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo"><img src="broadcast.svg" alt="brain" height="60">  Brain Wave</div>
+            <h1>Select your difficulty level here &#128073;</h1>
+            <ul class="nav-links">
+                <li><a href="#" id="school-level">School Level</a></li>
+                <li><a href="#" id="undergraduate-level">Undergraduate Level</a></li>
+                <li><a href="#" id="professional-level">Professional Level</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Welcome <br>to<br> Brain Wave</h1>
+            <p>Challenge yourself with our engaging quizzes for every level!</p>
+        </div>
+    </section>
+
+    <div class="quiz-container">
+        <h2 id="quiz-title">Select a difficulty level !</h2>
+        <div id="quiz"></div>
+        <button id="next-btn">Next Question</button>
+        <p id="score"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
