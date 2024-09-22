@@ -10,240 +10,241 @@ const quizzes = {
             correct: "b"
         },
         {
-            question: "What does GUI stand for?",
-            a: "Graphical User Interface",
-            b: "General User Interface",
-            c: "Graphical Utility Interface",
-            d: "General Utility Interface",
-            correct: "a"
-        },
-        {
-            question: "What is an example of an input device?",
-            a: "Monitor",
-            b: "Printer",
-            c: "Keyboard",
-            d: "Speakers",
+            question: "Which part of the computer is used for long-term storage?",
+            a: "RAM",
+            b: "CPU",
+            c: "Hard Drive",
+            d: "GPU",
             correct: "c"
         },
         {
-            question: "Which software is used to create presentations?",
-            a: "MS Word",
-            b: "MS Excel",
-            c: "MS PowerPoint",
-            d: "MS Access",
-            correct: "c"
-        },
-        {
-            question: "What is the function of the operating system?",
-            a: "Manage hardware and software",
-            b: "Create documents",
-            c: "Run programs",
-            d: "Store data",
-            correct: "a"
-        },
-        {
-            question: "What is the shortcut key for copying text?",
-            a: "Ctrl + X",
-            b: "Ctrl + V",
-            c: "Ctrl + C",
-            d: "Ctrl + A",
-            correct: "c"
-        },
-        {
-            question: "Which one of these is a web browser?",
-            a: "Windows",
-            b: "Excel",
-            c: "Chrome",
-            d: "Word",
-            correct: "c"
-        },
-        {
-            question: "What does HTML stand for?",
-            a: "Hyper Text Markup Language",
-            b: "Hyperlink Text Markup Language",
-            c: "High Text Markup Language",
-            d: "Hypertext Multiple Language",
-            correct: "a"
-        },
-        {
-            question: "What is the function of a printer?",
-            a: "Store data",
-            b: "Process data",
-            c: "Print documents",
-            d: "Send data",
-            correct: "c"
-        },
-        {
-            question: "Which key is used to open the task manager?",
-            a: "Ctrl + T",
-            b: "Ctrl + Alt + Delete",
-            c: "Ctrl + Shift + Esc",
-            d: "Ctrl + Shift + T",
+            question: "What does AI stand for?",
+            a: "Automated Input",
+            b: "Artificial Intelligence",
+            c: "Automated Interaction",
+            d: "Artificial Interaction",
             correct: "b"
+        },
+        {
+            question: "Which of the following is an AI application?",
+            a: "Self-driving cars",
+            b: "Writing with a pen",
+            c: "Riding a bike",
+            d: "Playing the piano",
+            correct: "a"
+        },
+        {
+            question: "Which technology allows machines to learn from experience?",
+            a: "Deep Learning",
+            b: "Web Development",
+            c: "Mobile Computing",
+            d: "Data Entry",
+            correct: "a"
+        },
+        {
+            question: "Who is known as the father of Artificial Intelligence?",
+            a: "Bill Gates",
+            b: "Elon Musk",
+            c: "John McCarthy",
+            d: "Mark Zuckerberg",
+            correct: "c"
+        },
+        {
+            question: "Which of the following is a popular AI assistant?",
+            a: "Google Chrome",
+            b: "Microsoft Word",
+            c: "Siri",
+            d: "Paint",
+            correct: "c"
+        },
+        {
+            question: "Which device can AI help to improve its performance?",
+            a: "Smartphone",
+            b: "Bicycle",
+            c: "Television",
+            d: "Microwave",
+            correct: "a"
+        },
+        {
+            question: "Which of these is a characteristic of AI?",
+            a: "Can think and learn",
+            b: "Cannot store information",
+            c: "Can only follow fixed instructions",
+            d: "Is only used for games",
+            correct: "a"
+        },
+        {
+            question: "Which of the following is NOT a benefit of AI?",
+            a: "Automates tasks",
+            b: "Enhances creativity",
+            c: "Never makes mistakes",
+            d: "Processes large amounts of data",
+            correct: "c"
         }
+  
     ],
     undergraduate: [
         {
-            question: "What is the primary function of an operating system?",
-            a: "Manage hardware resources",
-            b: "Create software applications",
-            c: "Manage user data",
-            d: "Perform calculations",
+            question: "Which of the following is a key concept in AI?",
+            a: "Machine Learning",
+            b: "Networking",
+            c: "Web Design",
+            d: "Database Management",
             correct: "a"
         },
         {
-            question: "What does CPU stand for?",
-            a: "Central Processing Unit",
-            b: "Central Programming Unit",
-            c: "Computer Processing Unit",
-            d: "Computer Programming Unit",
-            correct: "a"
-        },
-        {
-            question: "What is the function of RAM in a computer?",
-            a: "Store permanent data",
-            b: "Process data",
-            c: "Provide temporary storage",
-            d: "Manage external devices",
-            correct: "c"
-        },
-        {
-            question: "Which of the following is a programming language?",
-            a: "HTML",
-            b: "CSS",
-            c: "JavaScript",
-            d: "XML",
-            correct: "c"
-        },
-        {
-            question: "What is an algorithm?",
-            a: "A programming language",
-            b: "A step-by-step procedure for solving a problem",
-            c: "A type of software",
-            d: "A hardware component",
+            question: "Which algorithm is commonly used for classification tasks?",
+            a: "Linear Regression",
+            b: "Decision Trees",
+            c: "Bubble Sort",
+            d: "Dijkstra's Algorithm",
             correct: "b"
         },
         {
-            question: "What is a database management system?",
-            a: "A system to manage computer hardware",
-            b: "A system to manage data and databases",
-            c: "A system to manage user interfaces",
-            d: "A system to manage network resources",
-            correct: "b"
-        },
-        {
-            question: "Which of the following is a popular database software?",
-            a: "Word",
-            b: "Excel",
-            c: "Access",
-            d: "PowerPoint",
-            correct: "c"
-        },
-        {
-            question: "What is an IDE?",
-            a: "Integrated Development Environment",
-            b: "Integrated Data Editor",
-            c: "Interactive Data Environment",
-            d: "Integrated Design Editor",
+            question: "What does NLP stand for in AI?",
+            a: "Natural Language Processing",
+            b: "Neural Language Parsing",
+            c: "Network Layer Protocol",
+            d: "Node Learning Process",
             correct: "a"
         },
         {
-            question: "Which language is known for web development?",
-            a: "Java",
-            b: "Python",
-            c: "JavaScript",
-            d: "C++",
-            correct: "c"
+            question: "Which type of AI involves systems that can perform tasks without human intervention?",
+            a: "Weak AI",
+            b: "Strong AI",
+            c: "Narrow AI",
+            d: "Supervised AI",
+            correct: "b"
         },
         {
-            question: "What does URL stand for?",
-            a: "Uniform Resource Locator",
-            b: "Uniform Resource Link",
-            c: "Universal Resource Locator",
-            d: "Universal Resource Link",
+            question: "Which of the following is a supervised learning algorithm?",
+            a: "K-Means Clustering",
+            b: "Support Vector Machines",
+            c: "Apriori Algorithm",
+            d: "Genetic Algorithms",
+            correct: "b"
+        },
+        {
+            question: "What is the goal of reinforcement learning in AI?",
+            a: "Minimizing error rates",
+            b: "Maximizing cumulative rewards",
+            c: "Optimizing supervised learning",
+            d: "Improving unsupervised classification",
+            correct: "b"
+        },
+        {
+            question: "Which technique is used to reduce overfitting in machine learning models?",
+            a: "Normalization",
+            b: "Regularization",
+            c: "Gradient Descent",
+            d: "One-hot Encoding",
+            correct: "b"
+        },
+        {
+            question: "Which of the following best describes the Turing Test?",
+            a: "A test for machine intelligence",
+            b: "A sorting algorithm",
+            c: "An algorithm for neural networks",
+            d: "A type of clustering technique",
+            correct: "a"
+        },
+        {
+            question: "Which AI technique is primarily used for image recognition?",
+            a: "Reinforcement Learning",
+            b: "Convolutional Neural Networks (CNN)",
+            c: "K-Nearest Neighbors",
+            d: "Random Forest",
+            correct: "b"
+        },
+        {
+            question: "Which of the following AI methods focuses on unsupervised learning?",
+            a: "Clustering",
+            b: "Classification",
+            c: "Regression",
+            d: "Random Forest",
             correct: "a"
         }
     ],
     professional: [
         {
-            question: "Who is considered the father of modern computer science?",
-            a: "Alan Turing",
-            b: "John von Neumann",
-            c: "Charles Babbage",
-            d: "Ada Lovelace",
+            question: "Which optimization algorithm is most commonly used in training deep neural networks?",
+            a: "Stochastic Gradient Descent (SGD)",
+            b: "Backpropagation",
+            c: "K-Means Clustering",
+            d: "Breadth-First Search",
             correct: "a"
         },
         {
-            question: "What is a neural network in artificial intelligence?",
-            a: "A network of neurons in the brain",
-            b: "A type of database",
-            c: "A network of interconnected nodes designed to simulate the human brain",
-            d: "A type of network protocol",
-            correct: "c"
-        },
-        {
-            question: "Which programming language is used for Android app development?",
-            a: "Swift",
-            b: "Java",
-            c: "C#",
-            d: "Ruby",
-            correct: "b"
-        },
-        {
-            question: "What is the main purpose of blockchain technology?",
-            a: "Data encryption",
-            b: "Data storage",
-            c: "Decentralized transaction management",
-            d: "Data analysis",
-            correct: "c"
-        },
-        {
-            question: "What is the function of a compiler?",
-            a: "Translate source code into machine code",
-            b: "Manage system resources",
-            c: "Store data",
-            d: "Execute instructions",
+            question: "What is the main difference between L1 and L2 regularization in machine learning?",
+            a: "L1 reduces weights to zero, L2 penalizes large weights",
+            b: "L2 reduces weights to zero, L1 penalizes large weights",
+            c: "L1 adds bias, L2 reduces variance",
+            d: "L1 is used for classification, L2 is used for regression",
             correct: "a"
         },
         {
-            question: "What is cloud computing?",
-            a: "Computing on physical servers",
-            b: "Storing data in local drives",
-            c: "Using remote servers to store, manage, and process data",
-            d: "Performing computations on a single computer",
-            correct: "c"
-        },
-        {
-            question: "What is an API?",
-            a: "Application Programming Interface",
-            b: "Automated Programming Interface",
-            c: "Advanced Programming Interface",
-            d: "Application Programming Instruction",
+            question: "Which of the following is a key advantage of using Recurrent Neural Networks (RNNs)?",
+            a: "Ability to handle sequential data",
+            b: "Faster training than CNNs",
+            c: "Less prone to overfitting",
+            d: "Better for image processing tasks",
             correct: "a"
         },
         {
-            question: "What does SQL stand for?",
-            a: "Structured Query Language",
-            b: "Simple Query Language",
-            c: "Sequential Query Language",
-            d: "Structured Question Language",
+            question: "What problem does the 'vanishing gradient' primarily affect in deep learning?",
+            a: "Training deep neural networks",
+            b: "Hyperparameter tuning",
+            c: "Bias-variance tradeoff",
+            d: "Data augmentation",
             correct: "a"
         },
         {
-            question: "Which technology is used for web development to create dynamic web pages?",
-            a: "HTML",
-            b: "CSS",
-            c: "JavaScript",
-            d: "SQL",
-            correct: "c"
+            question: "Which method is used to train Generative Adversarial Networks (GANs)?",
+            a: "Minimax optimization",
+            b: "Reinforcement learning",
+            c: "Backpropagation",
+            d: "Gradient boosting",
+            correct: "a"
         },
         {
-            question: "What is a 'cookie' in web development?",
-            a: "A type of database",
-            b: "A small piece of data stored by the browser",
-            c: "A programming language",
-            d: "A web server",
-            correct: "b"
+            question: "In AI, what does the term 'attention mechanism' refer to?",
+            a: "A technique to focus on specific parts of input data",
+            b: "A method for improving model accuracy",
+            c: "A process of adding layers to neural networks",
+            d: "A form of regularization",
+            correct: "a"
+        },
+        {
+            question: "Which of the following is a commonly used loss function in binary classification tasks?",
+            a: "Cross-Entropy Loss",
+            b: "Mean Squared Error",
+            c: "Hinge Loss",
+            d: "Huber Loss",
+            correct: "a"
+        },
+        {
+            question: "Which type of learning algorithm is most suited for environments with sparse rewards?",
+            a: "Reinforcement Learning",
+            b: "Supervised Learning",
+            c: "Unsupervised Learning",
+            d: "Transfer Learning",
+            correct: "a"
+        },
+        {
+            question: "What is the key principle behind the Transformer architecture in NLP models?",
+            a: "Self-attention mechanism",
+            b: "Backpropagation",
+            c: "Convolutional layers",
+            d: "Gradient boosting",
+            correct: "a"
+        },
+        {
+            question: "Which of the following best describes the concept of 'transfer learning' in AI?",
+            a: "Using a pre-trained model on a new task",
+            b: "Combining multiple models for better accuracy",
+            c: "Training AI models with minimal data",
+            d: "Learning from a few-shot data set",
+            correct: "a"
         }
     ]
 };
